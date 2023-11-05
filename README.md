@@ -1,7 +1,10 @@
 <<<<<<< HEAD
-Learning C
+Learning C 
+</br>
 Any tips ?
+</br>
 Feel free to get in touch !
+</br>
 
 ## 📈 GitHub Stats
 </br>
