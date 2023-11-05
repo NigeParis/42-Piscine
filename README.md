@@ -111,7 +111,7 @@ Introduction to C programming language : rewriting functions from the standard C
 
     
 
-__*Result : 10%*__
+	__*Result : 10%*__
 
     
   - [Rush01](/rush01) (2 days / team of 3 people (with 1 absent)) :
@@ -120,7 +120,7 @@ __*Result : 10%*__
 
 
 
-__*Result : 100%*__
+	__*Result : 100%*__
     
 
   - [Rush02](/rush02) (2 days / team of 3 people) :
@@ -129,4 +129,4 @@ __*Result : 100%*__
 
 	example :  123 - > one hundred twenty-three
 
-__*Result : 0% (norm error in Makefile)*__
+	__*Result : 0% (norm error in Makefile)*__
