@@ -6,7 +6,7 @@
 /*   By: nrobinso <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/03 07:48:55 by nrobinso          #+#    #+#             */
-/*   Updated: 2023/08/19 10:07:37 by nrobinso         ###   ########.fr       */
+/*   Updated: 2023/11/05 17:08:23 by nrobinso         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,13 +24,13 @@ void	ft_show_counter(int double_digits)
 
 	if (double_digits > 9)
 	{
-	digit_left = (double_digits / 10) + '0';
-	digit_right = (double_digits % 10) + '0';
+		digit_left = (double_digits / 10) + '0';
+		digit_right = (double_digits % 10) + '0';
 	}
 	else
 	{
-	digit_left = '0';
-	digit_right = (double_digits % 10) + '0';
+		digit_left = '0';
+		digit_right = (double_digits % 10) + '0';
 	}
 	ft_putchar(digit_left);
 	ft_putchar(digit_right);

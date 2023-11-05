@@ -6,7 +6,7 @@
 /*   By: nrobinso <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/17 18:14:28 by nrobinso          #+#    #+#             */
-/*   Updated: 2023/08/22 16:54:11 by nrobinso         ###   ########.fr       */
+/*   Updated: 2023/11/05 17:20:22 by nrobinso         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -80,10 +80,11 @@ void	ft_putnbr_long_base(long int nbr, char *base)
 void	ft_putnbr_base(int nbr, char *base)
 {
 	long int	nb;
+
 	nb = nbr;
 	ft_putnbr_long_base(nb, base);
 }
-
+/*
 
 //int	main(int argc, char *argv[])
 int	main(void)
@@ -107,4 +108,4 @@ int	main(void)
 	ft_putchar('\n');
 	ft_putchar('\n');
 	return (0);
-}
+}*/

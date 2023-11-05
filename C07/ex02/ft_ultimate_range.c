@@ -6,7 +6,7 @@
 /*   By: nrobinso <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/15 09:15:34 by nrobinso          #+#    #+#             */
-/*   Updated: 2023/08/17 15:47:27 by nrobinso         ###   ########.fr       */
+/*   Updated: 2023/11/05 17:29:17 by nrobinso         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -37,7 +37,7 @@ int	ft_ultimate_range(int **range, int min, int max)
 		return (-1);
 	return (i);
 }
-
+/*
 #include <stdio.h>
 
 int	main(void)
@@ -63,4 +63,4 @@ int	main(void)
 	}
 	free(ptr);
 	return (0);
-}
+}*/

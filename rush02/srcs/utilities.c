@@ -6,7 +6,7 @@
 /*   By: ketrevis <ketrevis@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/19 15:04:09 by ketrevis          #+#    #+#             */
-/*   Updated: 2023/08/19 17:57:03 by ketrevis         ###   ########.fr       */
+/*   Updated: 2023/11/05 17:41:04 by nrobinso         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -40,7 +40,7 @@ int	ft_atoi(char *str)
 {
 	int	n;
 	int	sign;
-	
+
 	n = 0;
 	sign = 1;
 	while (*str && (*str >= 9 && *str <= 1) || *str == ' ')

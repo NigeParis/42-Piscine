@@ -6,7 +6,7 @@
 /*   By: nrobinso <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/14 08:04:21 by nrobinso          #+#    #+#             */
-/*   Updated: 2023/08/14 15:46:47 by nrobinso         ###   ########.fr       */
+/*   Updated: 2023/11/05 17:25:07 by nrobinso         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -78,7 +78,7 @@ int	main(int argc, char *argv[])
 		}
 		i++;
 		j = 1;
-	}	
+	}
 	i = 1;
 	while (i < argc)
 		ft_putstr(argv[index[i++]]);

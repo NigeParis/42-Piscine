@@ -6,7 +6,7 @@
 /*   By: mechard <mechard@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/19 15:04:13 by ketrevis          #+#    #+#             */
-/*   Updated: 2023/08/20 18:50:24 by mechard          ###   ########.fr       */
+/*   Updated: 2023/11/05 17:50:30 by nrobinso         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -35,8 +35,10 @@ char	**check_main_args(int ac, char **av, char **input)
 			return (split_file(av[2]));
 		}
 		else
+		{
 			*input = av[2];
 			return (split_file(av[1]));
+		}
 	}
 	return (0);
 }
@@ -50,7 +52,5 @@ int	main(int argc, char **argv)
 	if (dict == 0)
 		return (ft_putstr("Error\n"), 0);
 	parse_file(input, dict);
-/* 	for (int i = 0; dict[i] != 0; i++)
-		printf("%s\n", dict[i]); */
 	return (0);
 }

@@ -6,7 +6,7 @@
 /*   By: nrobinso <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/12 18:29:00 by nrobinso          #+#    #+#             */
-/*   Updated: 2023/08/22 19:08:11 by nrobinso         ###   ########.fr       */
+/*   Updated: 2023/11/05 17:22:15 by nrobinso         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,7 +27,7 @@ int	ft_is_prime(int nb)
 }
 
 int	ft_find_next_prime(int nb)
-{	
+{
 	int	result;
 
 	result = 0;

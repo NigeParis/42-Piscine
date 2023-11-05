@@ -6,7 +6,7 @@
 /*   By: aidferna <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/05 13:11:15 by aidferna          #+#    #+#             */
-/*   Updated: 2023/08/06 18:37:46 by nrobinso         ###   ########.fr       */
+/*   Updated: 2023/11/05 17:36:10 by nrobinso         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -29,7 +29,7 @@ void	rush(int x, int y)
 			column_nbr++;
 		}
 		ft_putchar('\n');
-	row_nbr++;
+		row_nbr++;
 	}
 }
 

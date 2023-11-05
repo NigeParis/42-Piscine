@@ -6,7 +6,7 @@
 /*   By: nrobinso <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/07 18:14:14 by nrobinso          #+#    #+#             */
-/*   Updated: 2023/08/09 08:48:18 by nrobinso         ###   ########.fr       */
+/*   Updated: 2023/11/05 17:13:30 by nrobinso         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -31,7 +31,7 @@ char	*ft_strlowcase(char *str)
 		{
 			*str = *str + ('a' - 'A');
 		}
-	str++;
+		str++;
 	}
 	return (return_pointer);
 }

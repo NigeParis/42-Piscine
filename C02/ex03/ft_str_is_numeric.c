@@ -6,7 +6,7 @@
 /*   By: nrobinso <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/09 08:29:47 by nrobinso          #+#    #+#             */
-/*   Updated: 2023/08/09 08:29:52 by nrobinso         ###   ########.fr       */
+/*   Updated: 2023/11/05 17:14:48 by nrobinso         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,7 +22,7 @@ int	ft_str_is_numeric(char *str)
 		if (*str < '0' || *str > '9' )
 			return (!flag);
 		str++;
-	}	
+	}
 	return (flag);
 }
 /*

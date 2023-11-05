@@ -1,3 +1,15 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   dict_parse_utilities.c                             :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: nrobinso <nrobinso@student.42.fr>          +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2023/11/05 17:47:49 by nrobinso          #+#    #+#             */
+/*   Updated: 2023/11/05 17:48:21 by nrobinso         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include "ft_ft.h"
 #include <stdlib.h>
 #include <stdio.h>
@@ -48,7 +60,7 @@ int	found_key(char *nb, char *dict)
 
 	if (ft_atoi(nb) > 99)
 	{
-		if(ft_atoi(nb) < 1000)
+		if (ft_atoi(nb) < 1000)
 		{
 			nbr = ft_atoi(nb) / 100;
 			if (nbr == ft_atoi(dict))

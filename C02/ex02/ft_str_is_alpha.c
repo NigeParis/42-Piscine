@@ -6,7 +6,7 @@
 /*   By: nrobinso <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/07 14:02:52 by nrobinso          #+#    #+#             */
-/*   Updated: 2023/08/20 13:12:14 by nrobinso         ###   ########.fr       */
+/*   Updated: 2023/11/05 17:15:24 by nrobinso         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,7 +22,7 @@ int	ft_str_is_alpha(char *str)
 		if ((*str < 'a' || *str > 'z' ) && (*str < 'A' || *str > 'Z' ))
 			return (!flag);
 		str++;
-	}	
+	}
 	return (flag);
 }
 /*

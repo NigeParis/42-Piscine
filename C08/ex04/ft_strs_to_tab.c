@@ -6,7 +6,7 @@
 /*   By: nrobinso <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/20 17:28:40 by nrobinso          #+#    #+#             */
-/*   Updated: 2023/08/23 18:38:29 by nrobinso         ###   ########.fr       */
+/*   Updated: 2023/11/05 17:31:14 by nrobinso         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include <stdlib.h>
@@ -42,7 +42,7 @@ int	ft_strcpy(char *dest, char *src)
 		dest++;
 		src++;
 	}
-		*dest = '\0';
+	*dest = '\0';
 	return (len - count);
 }
 

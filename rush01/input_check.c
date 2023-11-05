@@ -6,7 +6,7 @@
 /*   By: ledelbec <ledelbec@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/12 10:19:10 by ledelbec          #+#    #+#             */
-/*   Updated: 2023/08/13 19:25:30 by nrobinso         ###   ########.fr       */
+/*   Updated: 2023/11/05 17:34:28 by nrobinso         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,7 @@ int	is_valid_arg(char *str)
 	if (*str == ' ')
 		return (1);
 	while (*str)
-	{	
+	{
 		if (*str == ' ')
 			str++;
 		else

@@ -6,7 +6,7 @@
 /*   By: ketrevis <ketrevis@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/19 13:51:13 by mechard           #+#    #+#             */
-/*   Updated: 2023/08/19 15:04:06 by ketrevis         ###   ########.fr       */
+/*   Updated: 2023/11/05 18:00:49 by nrobinso         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,8 @@ int	input_valid_nb(char *str)
 	int	i;
 
 	i = 0;
-	while (str[i] == ' ' || str[i] == '\t' || (str[i] > '\n' && str[i] <= '\r'))
+	while (str[i] == ' ' || str[i] == '\t' || (str[i] > '\n' \
+		&& str[i] <= '\r'))
 		i++;
 	if (str[i] == '-' && str[i] != '+')
 	{

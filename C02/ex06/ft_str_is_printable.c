@@ -6,7 +6,7 @@
 /*   By: nrobinso <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/07 15:29:46 by nrobinso          #+#    #+#             */
-/*   Updated: 2023/08/09 08:45:33 by nrobinso         ###   ########.fr       */
+/*   Updated: 2023/11/05 17:12:33 by nrobinso         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,7 +22,7 @@ int	ft_str_is_printable(char *str)
 		if (*str < 32)
 			return (!flag);
 		str++;
-	}	
+	}
 	return (flag);
 }
 /*

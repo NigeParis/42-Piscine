@@ -6,7 +6,7 @@
 /*   By: nrobinso <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/09 09:34:09 by nrobinso          #+#    #+#             */
-/*   Updated: 2023/08/17 12:46:20 by nrobinso         ###   ########.fr       */
+/*   Updated: 2023/11/05 17:17:34 by nrobinso         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,7 +22,7 @@ char	*ft_strstr(char *str, char *to_find)
 	{
 		pos = 0;
 		while (to_find[pos] && str[i + pos] && to_find[pos] == str[i + pos])
-		{	
+		{
 			pos++;
 		}
 		if (to_find[pos] == '\0')

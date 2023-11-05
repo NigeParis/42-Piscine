@@ -6,7 +6,7 @@
 /*   By: nrobinso <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/07 15:06:34 by nrobinso          #+#    #+#             */
-/*   Updated: 2023/08/09 08:44:17 by nrobinso         ###   ########.fr       */
+/*   Updated: 2023/11/05 17:14:21 by nrobinso         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,7 +22,7 @@ int	ft_str_is_lowercase(char *str)
 		if (*str < 'a' || *str > 'z' )
 			return (!flag);
 		str++;
-	}	
+	}
 	return (flag);
 }
 /*
