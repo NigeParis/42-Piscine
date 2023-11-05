@@ -116,7 +116,7 @@ __*Result : 10%*__
     
   - [Rush01](/rush01) (2 days / team of 3 people) :
 
-	Creat a program that resolves a sudoku.
+	Create a program that resolves a sudoku.
 
 
 
@@ -124,6 +124,9 @@ __*Result : 100%*__
     
 
   - [Rush02](/rush02) (2 days / team of 3 people) :
+	
+	Create a program that converts numbers into words.
 
+	example :  123 - > one hundred twenty-three
 
 __*Result : 0% (norm error in Makefile)*__
