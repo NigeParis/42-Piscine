@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Learning C
 Any tips ?
 Feel free to get in touch !
@@ -13,3 +14,6 @@ Feel free to get in touch !
        <img align="center" src="https://github-readme-stats.vercel.app/api/?username=NigeParis&theme=ayu-mirage&show_icons=true" alt="Nige's GitHub page" height="200"/>
    </a>
 </div>
+=======
+# 42-Piscine
+>>>>>>> refs/remotes/origin/main
