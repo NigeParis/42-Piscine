@@ -107,7 +107,7 @@ Introduction to C programming language : rewriting functions from the standard C
  
   - [Rush00](/rush00) (2 days / team of 3 people) :
 
-   Display a square formed by specific characters on standard output.
+	Display a square formed by specific characters on standard output.
 
     
 
