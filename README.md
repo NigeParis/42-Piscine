@@ -114,7 +114,7 @@ Introduction to C programming language : rewriting functions from the standard C
 __*Result : 10%*__
 
     
-  - [Rush01](/rush01) (2 days / team of 3 people) :
+  - [Rush01](/rush01) (2 days / team of 3 people (with 1 absent)) :
 
 	Create a program that resolves a sudoku.
 
