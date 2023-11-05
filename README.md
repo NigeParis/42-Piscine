@@ -24,7 +24,7 @@ Introduction to C programming language : rewriting functions from the standard C
 | ex04  | [`ft_is_negative.c`](/C00/ex04/ft_is_negative.c)  |  |
 | ex05 | [`ft_print_comb.c`](/C00/ex05/ft_print_comb.c) | |
 | ex06 | [`ft_print_comb2.c`](/C00/ex06/ft_print_comb2.c) | |
-| ex07 | [`ft_putnbr.c`] (/C00/ex07/ft_putnbr.c)| |
+| ex07 | [`ft_putnbr.c`](/C00/ex07/ft_putnbr.c)| |
 | ex08 | `ft_print_combn.c` | *NR* |
 | | | |
 | __[C01](/C01) : Pointers__ |           |   __100%__    |
