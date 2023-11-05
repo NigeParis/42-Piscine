@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Learning C 
 </br>
 Any tips ?
@@ -18,5 +17,3 @@ Feel free to get in touch !
    </a>
 </div>
 =======
-# 42-Piscine
->>>>>>> refs/remotes/origin/main
