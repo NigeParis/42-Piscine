@@ -15,7 +15,7 @@
  ### Exercices
 Introduction to C programming language : rewriting functions from the standard C libraries, pointers, recursion, command-line arguments, header files, dynamic memory allocation.
 
-| [C00](/C00) : Basic syntax |           |    85 %   |
+| [C00](/C00) : Basic syntax |           |  __85__ %   |
 | :--------------- |:---------------| :-----|
 | ex00  |   [`ft_putchar.c`](/C00/ex00/ft_putchar.c)  |   |
 | ex01  | [`ft_print_alphabet.c`](/C00/ex01/ft_print_alphabet.c) |  |
