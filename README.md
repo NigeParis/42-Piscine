@@ -6,7 +6,7 @@
  | --- | ----|
  | 105/420 | 25% |
  
-### ⚠️ Big advise : Please don't copy, learn. ⚠️
+### ⚠️ Please don't copy, learn. ⚠️
 
 ## Shell 
 [Shell00](/shell00) & [Shell01](/shell01) : Quick introduction to shell scripting, permissions handling, bash basic commands (grep, find, sed, awk), regular expressions.
