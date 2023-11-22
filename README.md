@@ -72,7 +72,7 @@ Introduction to C programming language : rewriting functions from the standard C
 | __[C05](/C05) : Recursion & optimization__ |           |   __80%__    |
 | ex00  |  [`ft_iterative_factorial.c`](/C05/ex00/ft_iterative_factorial.c)  |   |
 | ex01  | [`ft_recursive_factorial.c`](/C05/ex01/ft_recursive_factorial.c) |  |
-| ex02  | [`ft_iterative_power.c`](/C05/ex02/ft_itertative_power.c) | |
+| ex02  | [`ft_iterative_power.c`](/C05/ex02/ft_iterative_power.c) | |
 | ex03  | [`ft_recursive_power.c`](/C05/ex03/ft_recursive_power.c) |  |
 | ex04  | [`ft_fibonacci.c`](/C05/ex04/ft_fibonacci.c)  |  |
 | ex05 | [`ft_sqrt.c`](/C05/ex05/ft_sqrt.c) |  |
